@@ -10,7 +10,7 @@ $ pip install requests
 
 $ pkg install nano
 
-$ git clone https://github.com/Kwntwl/bigtoken
+$ git clone https://github.com/TNCP06/bigtoken
 
 $ cd bigtoken
 
